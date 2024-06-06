@@ -1,4 +1,4 @@
-# leetcode-solitions
+# leetcode-solutions
 
 This is a repository to keep track of my leetcode solutions so far
 
